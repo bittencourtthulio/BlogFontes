@@ -1,0 +1,43 @@
+inherited Form2_LgXhdpiPh: TForm2_LgXhdpiPh
+  ClientHeight = 695
+  ClientWidth = 450
+  DesignerMasterStyle = 3
+  inherited ToolBar1: TToolBar
+    Size.Width = 450.000000000000000000
+    inherited Rectangle2: TRectangle
+      Size.Width = 450.000000000000000000
+    end
+  end
+  inherited TabControl1: TTabControl
+    Size.Width = 450.000000000000000000
+    Size.Height = 647.000000000000000000
+    TabIndex = 1
+    Sizes = (
+      450s
+      598s
+      450s
+      598s)
+    inherited TabPrincipal: TTabItem
+      IsSelected = False
+      Size.Width = 225.000000000000000000
+      Text = 'TABPRINCIPAL'
+      ExplicitSize.cx = 450.000000000000000000
+      ExplicitSize.cy = 49.000000000000000000
+    end
+    inherited TabSplash: TTabItem
+      IsSelected = True
+      Size.Width = 225.000000000000000000
+      Text = 'TABSPLASH'
+      ExplicitSize.cx = 225.000000000000000000
+      ExplicitSize.cy = 49.000000000000000000
+      inherited Rectangle1: TRectangle
+        Size.Width = 450.000000000000000000
+        Size.Height = 598.000000000000000000
+        inherited Image1: TImage
+          MultiResBitmap.Height = 1050
+          MultiResBitmap.Width = 1680
+        end
+      end
+    end
+  end
+end
