@@ -1,0 +1,109 @@
+object Form1: TForm1
+  Left = 0
+  Top = 0
+  Caption = 'Form1'
+  ClientHeight = 480
+  ClientWidth = 640
+  FormFactor.Width = 320
+  FormFactor.Height = 480
+  FormFactor.Devices = [Desktop]
+  DesignerMasterStyle = 0
+  object Button2: TButton
+    Position.X = 16.000000000000000000
+    Position.Y = 32.000000000000000000
+    Size.Width = 129.000000000000000000
+    Size.Height = 22.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 1
+    Text = 'Cadastrar Fornecedor'
+    OnClick = Button2Click
+  end
+  object Button1: TButton
+    Position.X = 16.000000000000000000
+    Position.Y = 56.000000000000000000
+    Size.Width = 129.000000000000000000
+    Size.Height = 22.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 0
+    Text = 'Cadastrar Cliente'
+    OnClick = Button1Click
+  end
+  object ComboBox1: TComboBox
+    Items.Strings = (
+      'Cliente'
+      'Fornecedor'
+      'Pessoa')
+    Position.X = 384.000000000000000000
+    Position.Y = 32.000000000000000000
+    Size.Width = 241.000000000000000000
+    Size.Height = 22.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 4
+  end
+  object Button3: TButton
+    Position.X = 504.000000000000000000
+    Position.Y = 64.000000000000000000
+    Size.Width = 120.000000000000000000
+    Size.Height = 22.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 5
+    Text = 'Quem sou eu?'
+    OnClick = Button3Click
+  end
+  object ComboBox2: TComboBox
+    Items.Strings = (
+      'Cachorro'
+      'Gato')
+    Position.X = 384.000000000000000000
+    Position.Y = 96.000000000000000000
+    Size.Width = 241.000000000000000000
+    Size.Height = 22.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 2
+  end
+  object Button4: TButton
+    Position.X = 504.000000000000000000
+    Position.Y = 128.000000000000000000
+    Size.Width = 120.000000000000000000
+    Size.Height = 22.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 3
+    Text = 'Voz do Animal'
+    OnClick = Button4Click
+  end
+  object Button5: TButton
+    Position.X = 16.000000000000000000
+    Position.Y = 104.000000000000000000
+    TabOrder = 6
+    Text = 'Heran'#231'a 1'
+    OnClick = Button5Click
+  end
+  object Button6: TButton
+    Position.X = 16.000000000000000000
+    Position.Y = 128.000000000000000000
+    TabOrder = 7
+    Text = 'Heran'#231'a 2'
+    OnClick = Button6Click
+  end
+  object Memo1: TMemo
+    Touch.InteractiveGestures = [Pan, LongTap, DoubleTap]
+    DataDetectorTypes = []
+    Position.X = 16.000000000000000000
+    Position.Y = 272.000000000000000000
+    Size.Width = 609.000000000000000000
+    Size.Height = 193.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 8
+    Viewport.Width = 605.000000000000000000
+    Viewport.Height = 189.000000000000000000
+  end
+  object Label1: TLabel
+    Position.X = 24.000000000000000000
+    Position.Y = 200.000000000000000000
+    Size.Width = 601.000000000000000000
+    Size.Height = 17.000000000000000000
+    Size.PlatformDefault = False
+    Text = 'Label1'
+    TabOrder = 10
+  end
+end
