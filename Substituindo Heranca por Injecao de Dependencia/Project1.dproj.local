@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2020/07/30 17:51:54.447,=C:\Users\thuli\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/07/30 17:52:00.610,=C:\Users\thuli\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2020/07/30 17:52:25.535,C:\Users\thuli\Desktop\Interfaces\Project.Interfaces.pas=C:\Users\thuli\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2020/07/30 17:52:33.101,C:\Users\thuli\Desktop\Interfaces\Project.View.Principal.pas=C:\Users\thuli\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/07/30 17:52:33.101,C:\Users\thuli\Desktop\Interfaces\Project.View.Principal.dfm=C:\Users\thuli\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2020/07/30 17:52:35.602,C:\Users\thuli\Desktop\Interfaces\Project1.dproj=C:\Users\thuli\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2020/07/30 17:55:20.419,=C:\Users\thuli\Desktop\Interfaces\Unit1.pas</Transaction>
+    <Transaction>2020/07/30 17:55:30.443,C:\Users\thuli\Desktop\Interfaces\Project.Endereco.pas=C:\Users\thuli\Desktop\Interfaces\Unit1.pas</Transaction>
+    <Transaction>2020/07/30 18:04:14.142,=C:\Users\thuli\Desktop\Interfaces\Unit1.pas</Transaction>
+    <Transaction>2020/07/30 18:04:42.487,C:\Users\thuli\Desktop\Interfaces\Project.PessoaFisica.pas=C:\Users\thuli\Desktop\Interfaces\Unit1.pas</Transaction>
+    <Transaction>2020/07/30 18:05:41.276,=C:\Users\thuli\Desktop\Interfaces\Unit1.pas</Transaction>
+    <Transaction>2020/07/30 18:05:48.804,C:\Users\thuli\Desktop\Interfaces\Project.Pessoa.pas=C:\Users\thuli\Desktop\Interfaces\Unit1.pas</Transaction>
+    <Transaction>2020/07/30 18:11:18.977,C:\Users\thuli\Desktop\Interfaces\Project.Pessoa.pas=</Transaction>
+    <Transaction>2020/07/30 18:11:30.269,=C:\Users\thuli\Desktop\Interfaces\Unit1.pas</Transaction>
+    <Transaction>2020/07/30 18:11:37.384,C:\Users\thuli\Desktop\Interfaces\Project.PessoaJuridica.pas=C:\Users\thuli\Desktop\Interfaces\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
