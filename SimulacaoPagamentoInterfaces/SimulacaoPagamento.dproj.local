@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2020/07/30 20:07:34.255,=C:\Users\thuli\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2020/07/30 20:08:12.486,C:\Users\thuli\Desktop\Interfaces_Crediario\View.Principal.pas=C:\Users\thuli\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2020/07/30 20:08:12.486,C:\Users\thuli\Desktop\Interfaces_Crediario\View.Principal.dfm=C:\Users\thuli\Documents\Embarcadero\Studio\Projects\Unit2.dfm</Transaction>
+    <Transaction>2020/07/30 20:08:18.845,C:\Users\thuli\Desktop\Interfaces_Crediario\SimulacaoPagamento.dproj=C:\Users\thuli\Documents\Embarcadero\Studio\Projects\Project2.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
