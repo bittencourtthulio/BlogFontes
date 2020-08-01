@@ -1,0 +1,48 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+    <PropertyGroup>
+        <ProjectGuid>{0CB1DB12-D0CC-429F-A7FC-D1FCBCE0C421}</ProjectGuid>
+    </PropertyGroup>
+    <ItemGroup>
+        <Projects Include="Projeto_Pessoa\LivePessoa.dproj">
+            <Dependencies/>
+        </Projects>
+        <Projects Include="Projeto_Pagamento\LivePag.dproj">
+            <Dependencies/>
+        </Projects>
+    </ItemGroup>
+    <ProjectExtensions>
+        <Borland.Personality>Default.Personality.12</Borland.Personality>
+        <Borland.ProjectType/>
+        <BorlandProject>
+            <Default.Personality/>
+        </BorlandProject>
+    </ProjectExtensions>
+    <Target Name="LivePessoa">
+        <MSBuild Projects="Projeto_Pessoa\LivePessoa.dproj"/>
+    </Target>
+    <Target Name="LivePessoa:Clean">
+        <MSBuild Projects="Projeto_Pessoa\LivePessoa.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="LivePessoa:Make">
+        <MSBuild Projects="Projeto_Pessoa\LivePessoa.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="LivePag">
+        <MSBuild Projects="Projeto_Pagamento\LivePag.dproj"/>
+    </Target>
+    <Target Name="LivePag:Clean">
+        <MSBuild Projects="Projeto_Pagamento\LivePag.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="LivePag:Make">
+        <MSBuild Projects="Projeto_Pagamento\LivePag.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="Build">
+        <CallTarget Targets="LivePessoa;LivePag"/>
+    </Target>
+    <Target Name="Clean">
+        <CallTarget Targets="LivePessoa:Clean;LivePag:Clean"/>
+    </Target>
+    <Target Name="Make">
+        <CallTarget Targets="LivePessoa:Make;LivePag:Make"/>
+    </Target>
+    <Import Project="$(BDS)\Bin\CodeGear.Group.Targets" Condition="Exists('$(BDS)\Bin\CodeGear.Group.Targets')"/>
+</Project>
