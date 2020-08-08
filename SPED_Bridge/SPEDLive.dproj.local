@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2020/08/07 19:55:24.961,=C:\Users\thuli\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/08/07 19:56:24.579,D:\Projetos\Cursos\BlogFontes\trunk\SPED_Bridge\src\View\Live.View.Principal.pas=C:\Users\thuli\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/08/07 19:56:24.579,D:\Projetos\Cursos\BlogFontes\trunk\SPED_Bridge\src\View\Live.View.Principal.dfm=C:\Users\thuli\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2020/08/07 19:56:30.368,D:\Projetos\Cursos\BlogFontes\trunk\SPED_Bridge\src\View\SPEDLive.dproj=C:\Users\thuli\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2020/08/07 19:56:49.962,D:\Projetos\Cursos\BlogFontes\trunk\SPED_Bridge\SPEDLive.dproj=D:\Projetos\Cursos\BlogFontes\trunk\SPED_Bridge\src\View\SPEDLive.dproj</Transaction>
+    <Transaction>2020/08/07 20:20:30.465,=D:\Projetos\Cursos\BlogFontes\trunk\SPED_Bridge\Unit1.pas</Transaction>
+    <Transaction>2020/08/07 20:20:58.756,D:\Projetos\Cursos\BlogFontes\trunk\SPED_Bridge\src\Model\Connection\Live.Model.Connection.pas=D:\Projetos\Cursos\BlogFontes\trunk\SPED_Bridge\Unit1.pas</Transaction>
+    <Transaction>2020/08/07 20:20:58.756,D:\Projetos\Cursos\BlogFontes\trunk\SPED_Bridge\src\Model\Connection\Live.Model.Connection.dfm=D:\Projetos\Cursos\BlogFontes\trunk\SPED_Bridge\Unit1.dfm</Transaction>
+    <Transaction>2020/08/07 20:28:59.171,=D:\Projetos\Cursos\BlogFontes\trunk\SPED_Bridge\Unit1.pas</Transaction>
+    <Transaction>2020/08/07 20:29:23.985,D:\Projetos\Cursos\BlogFontes\trunk\SPED_Bridge\src\Model\Fiscal\SPED\Live.Model.Fiscal.SPED.Interfaces.pas=D:\Projetos\Cursos\BlogFontes\trunk\SPED_Bridge\Unit1.pas</Transaction>
+    <Transaction>2020/08/07 20:40:00.130,=D:\Projetos\Cursos\BlogFontes\trunk\SPED_Bridge\Unit1.pas</Transaction>
+    <Transaction>2020/08/07 20:40:16.484,D:\Projetos\Cursos\BlogFontes\trunk\SPED_Bridge\src\Model\Fiscal\SPED\Live.Model.Fiscal.SPED.pas=D:\Projetos\Cursos\BlogFontes\trunk\SPED_Bridge\Unit1.pas</Transaction>
+    <Transaction>2020/08/07 20:48:46.915,=D:\Projetos\Cursos\BlogFontes\trunk\SPED_Bridge\Unit1.pas</Transaction>
+    <Transaction>2020/08/07 20:49:02.431,D:\Projetos\Cursos\BlogFontes\trunk\SPED_Bridge\src\Model\Fiscal\SPED\Live.Model.Fiscal.SPED.C100.pas=D:\Projetos\Cursos\BlogFontes\trunk\SPED_Bridge\Unit1.pas</Transaction>
+    <Transaction>2020/08/07 21:11:04.623,=D:\Projetos\Cursos\BlogFontes\trunk\SPED_Bridge\Unit1.pas</Transaction>
+    <Transaction>2020/08/07 21:11:18.045,D:\Projetos\Cursos\BlogFontes\trunk\SPED_Bridge\src\Model\Fiscal\SPED\Live.Model.Fiscal.SPED.C170.pas=D:\Projetos\Cursos\BlogFontes\trunk\SPED_Bridge\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
