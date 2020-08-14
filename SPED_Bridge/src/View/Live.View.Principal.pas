@@ -31,7 +31,10 @@ implementation
 
 procedure TForm1.Button1Click(Sender: TObject);
 begin
+
   TSPED.New.Gerar;
+
+
   ShowMessage('Arquivo Gerado com Sucesso');
   winExec('Notepad.exe D:\Projetos\Cursos\BlogFontes\trunk\SPED_Bridge\Win32\Debug\SPED.txt', SW_SHOWNORMAL);
 end;

@@ -56,15 +56,15 @@ begin
     FArquivo.Add(
     Format('|C170|%d|%d|%s|%f|%f|%f|%f|%f|%f|',
           [
-            aValue.QueryVenda.FieldByName('ID').AsInteger,
-            aValue.QueryVenda.FieldByName('VENDAID').AsInteger,
-            aValue.QueryVenda.FieldByName('PRODUTO').AsString,
-            aValue.QueryVenda.FieldByName('VALORUNITARIO').AsCurrency,
-            aValue.QueryVenda.FieldByName('QUANTIDADE').AsCurrency,
-            aValue.QueryVenda.FieldByName('SUBTOTAL').AsCurrency,
-            aValue.QueryVenda.FieldByName('ACRESCIMO').AsCurrency,
-            aValue.QueryVenda.FieldByName('DESCONTO').AsCurrency,
-            aValue.QueryVenda.FieldByName('TOTAL').AsCurrency
+            aValue.QueryVendaItens.FieldByName('ID').AsInteger,
+            aValue.QueryVendaItens.FieldByName('VENDAID').AsInteger,
+            aValue.QueryVendaItens.FieldByName('PRODUTO').AsString,
+            aValue.QueryVendaItens.FieldByName('VALORUNITARIO').AsCurrency,
+            aValue.QueryVendaItens.FieldByName('QUANTIDADE').AsCurrency,
+            aValue.QueryVendaItens.FieldByName('SUBTOTAL').AsCurrency,
+            aValue.QueryVendaItens.FieldByName('ACRESCIMO').AsCurrency,
+            aValue.QueryVendaItens.FieldByName('DESCONTO').AsCurrency,
+            aValue.QueryVendaItens.FieldByName('TOTAL').AsCurrency
           ])
     );
     aValue.QueryVendaItens.Next;

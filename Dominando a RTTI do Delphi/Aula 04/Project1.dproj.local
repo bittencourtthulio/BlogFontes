@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2020/08/13 12:04:51.557,=C:\Users\thuli\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/08/13 12:11:11.081,D:\Projetos\Cursos\BlogFontes\trunk\Dominando a RTTI do Delphi\Aula 04\Unit1.dfm=C:\Users\thuli\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2020/08/13 12:11:11.081,D:\Projetos\Cursos\BlogFontes\trunk\Dominando a RTTI do Delphi\Aula 04\Unit1.pas=C:\Users\thuli\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/08/13 12:11:14.246,D:\Projetos\Cursos\BlogFontes\trunk\Dominando a RTTI do Delphi\Aula 04\Project1.dproj=C:\Users\thuli\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2020/08/13 12:15:41.471,=D:\Projetos\Cursos\BlogFontes\trunk\Dominando a RTTI do Delphi\Aula 04\Unit2.pas</Transaction>
+    <Transaction>2020/08/13 12:15:49.749,D:\Projetos\Cursos\BlogFontes\trunk\Dominando a RTTI do Delphi\Aula 04\RTTIUtils.pas=D:\Projetos\Cursos\BlogFontes\trunk\Dominando a RTTI do Delphi\Aula 04\Unit2.pas</Transaction>
+  </Transactions>
+</BorlandProject>
