@@ -1,0 +1,71 @@
+object PageReporEstoque: TPageReporEstoque
+  Left = 0
+  Top = 0
+  Caption = 'Form1'
+  ClientHeight = 603
+  ClientWidth = 822
+  FormFactor.Width = 320
+  FormFactor.Height = 480
+  FormFactor.Devices = [Desktop]
+  DesignerMasterStyle = 0
+  object Layout1: TLayout
+    Align = Client
+    Size.Width = 822.000000000000000000
+    Size.Height = 603.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 0
+    object Layout2: TLayout
+      Align = Top
+      Size.Width = 822.000000000000000000
+      Size.Height = 105.000000000000000000
+      Size.PlatformDefault = False
+      TabOrder = 0
+      object Label2: TLabel
+        StyledSettings = [Family, FontColor]
+        Position.X = 8.000000000000000000
+        Position.Y = 48.000000000000000000
+        Size.Width = 416.000000000000000000
+        Size.Height = 17.000000000000000000
+        Size.PlatformDefault = False
+        TextSettings.Font.Size = 20.000000000000000000
+        TextSettings.Font.StyleExt = {00070000000000000004000000}
+        Text = 'REPOR ESTOQUE'
+        TabOrder = 0
+      end
+      object Label1: TLabel
+        StyledSettings = [Family, Style, FontColor]
+        Position.X = 8.000000000000000000
+        Position.Y = 24.000000000000000000
+        Size.Width = 120.000000000000000000
+        Size.Height = 30.000000000000000000
+        Size.PlatformDefault = False
+        TextSettings.Font.Size = 16.000000000000000000
+        Text = 'ESTOQUE'
+        TabOrder = 1
+      end
+    end
+    object Layout3: TLayout
+      Align = Right
+      Position.X = 576.000000000000000000
+      Position.Y = 105.000000000000000000
+      Size.Width = 246.000000000000000000
+      Size.Height = 498.000000000000000000
+      Size.PlatformDefault = False
+      TabOrder = 1
+      object Rectangle1: TRectangle
+        Align = Contents
+        Size.Width = 246.000000000000000000
+        Size.Height = 498.000000000000000000
+        Size.PlatformDefault = False
+        Stroke.Kind = None
+      end
+    end
+    object Layout4: TLayout
+      Align = Client
+      Size.Width = 576.000000000000000000
+      Size.Height = 498.000000000000000000
+      Size.PlatformDefault = False
+      TabOrder = 2
+    end
+  end
+end

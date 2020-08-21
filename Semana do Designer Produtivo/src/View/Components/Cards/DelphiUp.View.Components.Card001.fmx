@@ -1,0 +1,62 @@
+object ComponentCard001: TComponentCard001
+  Left = 0
+  Top = 0
+  Caption = 'Form1'
+  ClientHeight = 583
+  ClientWidth = 766
+  FormFactor.Width = 320
+  FormFactor.Height = 480
+  FormFactor.Devices = [Desktop]
+  OnCreate = FormCreate
+  DesignerMasterStyle = 0
+  object Layout1: TLayout
+    Position.X = 152.000000000000000000
+    Position.Y = 120.000000000000000000
+    Size.Width = 297.000000000000000000
+    Size.Height = 281.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 0
+    object Rectangle1: TRectangle
+      Align = Contents
+      Size.Width = 297.000000000000000000
+      Size.Height = 281.000000000000000000
+      Size.PlatformDefault = False
+      Stroke.Kind = None
+    end
+    object Layout2: TLayout
+      Align = Top
+      Padding.Left = 20.000000000000000000
+      Padding.Top = 5.000000000000000000
+      Padding.Right = 20.000000000000000000
+      Padding.Bottom = 5.000000000000000000
+      Size.Width = 297.000000000000000000
+      Size.Height = 33.000000000000000000
+      Size.PlatformDefault = False
+      TabOrder = 1
+      object Rectangle2: TRectangle
+        Align = Contents
+        Size.Width = 297.000000000000000000
+        Size.Height = 33.000000000000000000
+        Size.PlatformDefault = False
+        Stroke.Kind = None
+      end
+      object Label1: TLabel
+        Align = Client
+        StyledSettings = [Family]
+        Size.Width = 257.000000000000000000
+        Size.Height = 23.000000000000000000
+        Size.PlatformDefault = False
+        TextSettings.Font.StyleExt = {00070000000000000004000000}
+        Text = 'Label1'
+        TabOrder = 1
+      end
+    end
+    object Layout3: TLayout
+      Align = Client
+      Size.Width = 297.000000000000000000
+      Size.Height = 248.000000000000000000
+      Size.PlatformDefault = False
+      TabOrder = 2
+    end
+  end
+end

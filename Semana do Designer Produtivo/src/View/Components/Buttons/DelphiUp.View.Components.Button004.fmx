@@ -1,0 +1,72 @@
+object ComponentButton004: TComponentButton004
+  Left = 0
+  Top = 0
+  Caption = 'Form1'
+  ClientHeight = 480
+  ClientWidth = 640
+  FormFactor.Width = 320
+  FormFactor.Height = 480
+  FormFactor.Devices = [Desktop]
+  OnCreate = FormCreate
+  DesignerMasterStyle = 0
+  object Layout1: TLayout
+    Margins.Left = 10.000000000000000000
+    Margins.Top = 20.000000000000000000
+    Margins.Right = 10.000000000000000000
+    Margins.Bottom = 20.000000000000000000
+    Position.X = 184.000000000000000000
+    Position.Y = 144.000000000000000000
+    Size.Width = 113.000000000000000000
+    Size.Height = 97.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 0
+    object Rectangle1: TRectangle
+      Align = Contents
+      Size.Width = 113.000000000000000000
+      Size.Height = 97.000000000000000000
+      Size.PlatformDefault = False
+      Stroke.Kind = None
+    end
+    object Layout2: TLayout
+      Align = Center
+      Size.Width = 86.000000000000000000
+      Size.Height = 74.000000000000000000
+      Size.PlatformDefault = False
+      TabOrder = 0
+      object Label1: TLabel
+        Align = Top
+        StyledSettings = [Family, Style]
+        Size.Width = 86.000000000000000000
+        Size.Height = 33.000000000000000000
+        Size.PlatformDefault = False
+        TextSettings.HorzAlign = Center
+        TextSettings.VertAlign = Trailing
+        Text = 'Label1'
+        TabOrder = 0
+      end
+      object Label2: TLabel
+        Align = Client
+        StyledSettings = [Family]
+        Size.Width = 86.000000000000000000
+        Size.Height = 41.000000000000000000
+        Size.PlatformDefault = False
+        TextSettings.Font.StyleExt = {00070000000000000004000000}
+        TextSettings.HorzAlign = Center
+        TextSettings.VertAlign = Leading
+        Text = 'Label2'
+        TabOrder = 1
+      end
+    end
+    object SpeedButton1: TSpeedButton
+      Align = Contents
+      Opacity = 0.000000000000000000
+      Size.Width = 113.000000000000000000
+      Size.Height = 97.000000000000000000
+      Size.PlatformDefault = False
+      Text = 'SpeedButton1'
+      OnClick = SpeedButton1Click
+      OnMouseEnter = SpeedButton1MouseEnter
+      OnMouseLeave = SpeedButton1MouseLeave
+    end
+  end
+end

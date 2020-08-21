@@ -1,0 +1,41 @@
+object PageProdutos: TPageProdutos
+  Left = 0
+  Top = 0
+  Caption = 'Form1'
+  ClientHeight = 480
+  ClientWidth = 640
+  FormFactor.Width = 320
+  FormFactor.Height = 480
+  FormFactor.Devices = [Desktop]
+  DesignerMasterStyle = 0
+  object Layout1: TLayout
+    Align = Client
+    Size.Width = 640.000000000000000000
+    Size.Height = 480.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 0
+    object Label1: TLabel
+      StyledSettings = [Family, Style, FontColor]
+      Position.X = 24.000000000000000000
+      Position.Y = 32.000000000000000000
+      Size.Width = 120.000000000000000000
+      Size.Height = 30.000000000000000000
+      Size.PlatformDefault = False
+      TextSettings.Font.Size = 16.000000000000000000
+      Text = 'CADASTRO'
+      TabOrder = 1
+    end
+    object Label2: TLabel
+      StyledSettings = [Family, FontColor]
+      Position.X = 24.000000000000000000
+      Position.Y = 56.000000000000000000
+      Size.Width = 713.000000000000000000
+      Size.Height = 17.000000000000000000
+      Size.PlatformDefault = False
+      TextSettings.Font.Size = 20.000000000000000000
+      TextSettings.Font.StyleExt = {00070000000000000004000000}
+      Text = 'PRODUTOS'
+      TabOrder = 0
+    end
+  end
+end

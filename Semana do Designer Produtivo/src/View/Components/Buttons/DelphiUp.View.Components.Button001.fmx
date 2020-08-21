@@ -1,0 +1,47 @@
+object ComponentButton001: TComponentButton001
+  Left = 0
+  Top = 0
+  Caption = 'Form1'
+  ClientHeight = 524
+  ClientWidth = 694
+  FormFactor.Width = 320
+  FormFactor.Height = 480
+  FormFactor.Devices = [Desktop]
+  OnCreate = FormCreate
+  DesignerMasterStyle = 0
+  object Layout1: TLayout
+    Padding.Left = 20.000000000000000000
+    Padding.Top = 20.000000000000000000
+    Padding.Right = 20.000000000000000000
+    Padding.Bottom = 20.000000000000000000
+    Position.X = 152.000000000000000000
+    Position.Y = 184.000000000000000000
+    Size.Width = 113.000000000000000000
+    Size.Height = 105.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 0
+    object Image1: TImage
+      MultiResBitmap = <
+        item
+        end>
+      Align = Client
+      Size.Width = 73.000000000000000000
+      Size.Height = 65.000000000000000000
+      Size.PlatformDefault = False
+      object FillRGBEffect1: TFillRGBEffect
+        Color = xFF203040
+      end
+    end
+    object SpeedButton1: TSpeedButton
+      Align = Contents
+      Opacity = 0.000000000000000000
+      Size.Width = 113.000000000000000000
+      Size.Height = 105.000000000000000000
+      Size.PlatformDefault = False
+      Text = 'SpeedButton1'
+      OnClick = SpeedButton1Click
+      OnMouseEnter = SpeedButton1MouseEnter
+      OnMouseLeave = SpeedButton1MouseLeave
+    end
+  end
+end

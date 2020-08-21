@@ -1,0 +1,54 @@
+object PageMenuFavoritos: TPageMenuFavoritos
+  Left = 0
+  Top = 0
+  Caption = 'Form1'
+  ClientHeight = 588
+  ClientWidth = 350
+  FormFactor.Width = 320
+  FormFactor.Height = 480
+  FormFactor.Devices = [Desktop]
+  DesignerMasterStyle = 0
+  object Layout1: TLayout
+    Align = Client
+    Size.Width = 350.000000000000000000
+    Size.Height = 588.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 0
+    object Rectangle1: TRectangle
+      Align = Contents
+      Size.Width = 350.000000000000000000
+      Size.Height = 588.000000000000000000
+      Size.PlatformDefault = False
+      Stroke.Kind = None
+    end
+    object Layout2: TLayout
+      Align = Top
+      Padding.Left = 25.000000000000000000
+      Padding.Top = 10.000000000000000000
+      Padding.Right = 25.000000000000000000
+      Padding.Bottom = 10.000000000000000000
+      Size.Width = 350.000000000000000000
+      Size.Height = 129.000000000000000000
+      Size.PlatformDefault = False
+      TabOrder = 0
+      object Label1: TLabel
+        Align = Client
+        StyledSettings = [Family]
+        Size.Width = 300.000000000000000000
+        Size.Height = 109.000000000000000000
+        Size.PlatformDefault = False
+        TextSettings.Font.Size = 25.000000000000000000
+        TextSettings.Font.StyleExt = {00070000000000000004000000}
+        Text = 'FAVORITOS'
+        TabOrder = 0
+      end
+    end
+    object Layout3: TLayout
+      Align = Client
+      Size.Width = 350.000000000000000000
+      Size.Height = 459.000000000000000000
+      Size.PlatformDefault = False
+      TabOrder = 1
+    end
+  end
+end

@@ -1,0 +1,93 @@
+object ComponentButton003: TComponentButton003
+  Left = 0
+  Top = 0
+  Caption = 'Form1'
+  ClientHeight = 480
+  ClientWidth = 640
+  FormFactor.Width = 320
+  FormFactor.Height = 480
+  FormFactor.Devices = [Desktop]
+  OnCreate = FormCreate
+  DesignerMasterStyle = 0
+  object Layout1: TLayout
+    Position.X = 128.000000000000000000
+    Position.Y = 128.000000000000000000
+    Size.Width = 385.000000000000000000
+    Size.Height = 185.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 0
+    object Layout2: TLayout
+      Align = Top
+      Padding.Left = 20.000000000000000000
+      Padding.Top = 5.000000000000000000
+      Padding.Right = 20.000000000000000000
+      Padding.Bottom = 5.000000000000000000
+      Size.Width = 385.000000000000000000
+      Size.Height = 50.000000000000000000
+      Size.PlatformDefault = False
+      TabOrder = 0
+      object Rectangle1: TRectangle
+        Align = Contents
+        Size.Width = 385.000000000000000000
+        Size.Height = 50.000000000000000000
+        Size.PlatformDefault = False
+        Stroke.Kind = None
+      end
+      object Layout4: TLayout
+        Align = Client
+        Size.Width = 345.000000000000000000
+        Size.Height = 40.000000000000000000
+        Size.PlatformDefault = False
+        TabOrder = 1
+        object Image1: TImage
+          MultiResBitmap = <
+            item
+            end>
+          Align = Right
+          Position.X = 320.000000000000000000
+          Size.Width = 25.000000000000000000
+          Size.Height = 40.000000000000000000
+          Size.PlatformDefault = False
+          object FillRGBEffect1: TFillRGBEffect
+            Color = xFF203040
+          end
+        end
+        object Label1: TLabel
+          Align = Client
+          StyledSettings = [Family]
+          Size.Width = 320.000000000000000000
+          Size.Height = 40.000000000000000000
+          Size.PlatformDefault = False
+          TextSettings.Font.StyleExt = {00070000000000000004000000}
+          Text = 'ITEM DO MENU'
+          TabOrder = 1
+        end
+        object SpeedButton1: TSpeedButton
+          Align = Contents
+          Opacity = 0.000000000000000000
+          Size.Width = 345.000000000000000000
+          Size.Height = 40.000000000000000000
+          Size.PlatformDefault = False
+          Text = 'SpeedButton1'
+          OnClick = SpeedButton1Click
+          OnMouseEnter = SpeedButton1MouseEnter
+          OnMouseLeave = SpeedButton1MouseLeave
+        end
+      end
+    end
+    object Layout3: TLayout
+      Align = Client
+      Size.Width = 385.000000000000000000
+      Size.Height = 135.000000000000000000
+      Size.PlatformDefault = False
+      TabOrder = 1
+      object Rectangle2: TRectangle
+        Align = Contents
+        Size.Width = 385.000000000000000000
+        Size.Height = 135.000000000000000000
+        Size.PlatformDefault = False
+        Stroke.Kind = None
+      end
+    end
+  end
+end

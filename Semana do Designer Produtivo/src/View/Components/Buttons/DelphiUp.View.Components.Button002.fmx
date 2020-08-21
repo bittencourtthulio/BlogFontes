@@ -1,0 +1,71 @@
+object ComponentButton002: TComponentButton002
+  Left = 0
+  Top = 0
+  Caption = 'Form1'
+  ClientHeight = 480
+  ClientWidth = 640
+  FormFactor.Width = 320
+  FormFactor.Height = 480
+  FormFactor.Devices = [Desktop]
+  DesignerMasterStyle = 0
+  object Layout1: TLayout
+    Padding.Left = 20.000000000000000000
+    Padding.Top = 10.000000000000000000
+    Padding.Right = 20.000000000000000000
+    Padding.Bottom = 10.000000000000000000
+    Position.X = 144.000000000000000000
+    Position.Y = 168.000000000000000000
+    Size.Width = 313.000000000000000000
+    Size.Height = 65.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 0
+    object Rectangle1: TRectangle
+      Align = Contents
+      Size.Width = 313.000000000000000000
+      Size.Height = 65.000000000000000000
+      Size.PlatformDefault = False
+      Stroke.Kind = None
+    end
+    object Layout2: TLayout
+      Align = Client
+      Size.Width = 273.000000000000000000
+      Size.Height = 45.000000000000000000
+      Size.PlatformDefault = False
+      TabOrder = 1
+      object Image1: TImage
+        MultiResBitmap = <
+          item
+          end>
+        Align = Left
+        Size.Width = 41.000000000000000000
+        Size.Height = 45.000000000000000000
+        Size.PlatformDefault = False
+        object FillRGBEffect1: TFillRGBEffect
+          Color = xFF203040
+        end
+      end
+      object Label1: TLabel
+        Align = Client
+        StyledSettings = [Family]
+        Margins.Left = 15.000000000000000000
+        Size.Width = 217.000000000000000000
+        Size.Height = 45.000000000000000000
+        Size.PlatformDefault = False
+        TextSettings.Font.StyleExt = {00070000000000000004000000}
+        Text = 'Label1'
+        TabOrder = 1
+      end
+    end
+    object SpeedButton1: TSpeedButton
+      Align = Contents
+      Opacity = 0.000000000000000000
+      Size.Width = 313.000000000000000000
+      Size.Height = 65.000000000000000000
+      Size.PlatformDefault = False
+      Text = 'SpeedButton1'
+      OnClick = SpeedButton1Click
+      OnMouseEnter = SpeedButton1MouseEnter
+      OnMouseLeave = SpeedButton1MouseLeave
+    end
+  end
+end
