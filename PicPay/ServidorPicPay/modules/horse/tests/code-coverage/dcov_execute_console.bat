@@ -1,1 +1,0 @@
-"..\code-coverage\code-coverage.exe" -e "..\Console.exe" -m "..\Console.map" -ife -uf dcov_units.lst -spf dcov_paths.lst -od ".\console\" -html

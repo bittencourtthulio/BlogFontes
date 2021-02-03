@@ -1,1 +1,0 @@
-"..\code-coverage\code-coverage.exe" -e "..\VCL.exe" -m "..\VCL.map" -ife -uf dcov_units.lst -spf dcov_paths.lst -od ".\vcl\" -html
