@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <BorlandProject>
-  <Transactions/>
-  <Default.Personality>
-    <Projects ActiveProject="D:\Projetos\Cursos\BlogFontes\trunk\Live 3107 - Injeçao de Dependencia\Projeto_Pagamento\LivePag.dproj"/>
-  </Default.Personality>
+	<Transactions/>
+	<Default.Personality>
+		<Projects ActiveProject="C:\ProjetosExemplo\BlogFontes\Live 3107 - Injeçao de Dependencia\Projeto_Pessoa\LivePessoa.dproj"/>
+	</Default.Personality>
 </BorlandProject>

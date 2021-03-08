@@ -1,17 +1,17 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <BorlandProject>
-  <Transactions>
-    <Transaction>2020/07/31 21:30:58.872,=C:\Users\thuli\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
-    <Transaction>2020/07/31 21:31:31.555,D:\Projetos\Cursos\BlogFontes\trunk\Live 3107 - Injeçao de Dependencia\Projeto_Pagamento\LivePag.View.Principal.pas=C:\Users\thuli\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
-    <Transaction>2020/07/31 21:31:31.555,D:\Projetos\Cursos\BlogFontes\trunk\Live 3107 - Injeçao de Dependencia\Projeto_Pagamento\LivePag.View.Principal.dfm=C:\Users\thuli\Documents\Embarcadero\Studio\Projects\Unit2.dfm</Transaction>
-    <Transaction>2020/07/31 21:31:36.126,D:\Projetos\Cursos\BlogFontes\trunk\Live 3107 - Injeçao de Dependencia\Projeto_Pagamento\LivePag.dproj=C:\Users\thuli\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
-    <Transaction>2020/07/31 21:33:37.362,=D:\Projetos\Cursos\BlogFontes\trunk\Live 3107 - Injeçao de Dependencia\Projeto_Pagamento\Unit1.pas</Transaction>
-    <Transaction>2020/07/31 21:33:54.414,D:\Projetos\Cursos\BlogFontes\trunk\Live 3107 - Injeçao de Dependencia\Projeto_Pagamento\LivePag.Interfaces.pas=D:\Projetos\Cursos\BlogFontes\trunk\Live 3107 - Injeçao de Dependencia\Projeto_Pagamento\Unit1.pas</Transaction>
-    <Transaction>2020/07/31 21:39:29.707,=D:\Projetos\Cursos\BlogFontes\trunk\Live 3107 - Injeçao de Dependencia\Projeto_Pagamento\Unit1.pas</Transaction>
-    <Transaction>2020/07/31 21:39:42.226,D:\Projetos\Cursos\BlogFontes\trunk\Live 3107 - Injeçao de Dependencia\Projeto_Pagamento\LivePag.Model.Pagamento.pas=D:\Projetos\Cursos\BlogFontes\trunk\Live 3107 - Injeçao de Dependencia\Projeto_Pagamento\Unit1.pas</Transaction>
-    <Transaction>2020/07/31 21:40:35.708,=D:\Projetos\Cursos\BlogFontes\trunk\Live 3107 - Injeçao de Dependencia\Projeto_Pagamento\Unit1.pas</Transaction>
-    <Transaction>2020/07/31 21:40:45.903,D:\Projetos\Cursos\BlogFontes\trunk\Live 3107 - Injeçao de Dependencia\Projeto_Pagamento\LivePag.Model.Cartao.pas=D:\Projetos\Cursos\BlogFontes\trunk\Live 3107 - Injeçao de Dependencia\Projeto_Pagamento\Unit1.pas</Transaction>
-    <Transaction>2020/07/31 21:43:29.044,=D:\Projetos\Cursos\BlogFontes\trunk\Live 3107 - Injeçao de Dependencia\Projeto_Pagamento\Unit1.pas</Transaction>
-    <Transaction>2020/07/31 21:43:37.699,D:\Projetos\Cursos\BlogFontes\trunk\Live 3107 - Injeçao de Dependencia\Projeto_Pagamento\LivePag.Model.Crediario.pas=D:\Projetos\Cursos\BlogFontes\trunk\Live 3107 - Injeçao de Dependencia\Projeto_Pagamento\Unit1.pas</Transaction>
+	<Transactions>
+    <Transaction>2020/07/31 21:30:58.000.872,=C:\Users\thuli\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2020/07/31 21:31:31.000.555,D:\Projetos\Cursos\BlogFontes\trunk\Live 3107 - Injeçao de Dependencia\Projeto_Pagamento\LivePag.View.Principal.pas=C:\Users\thuli\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2020/07/31 21:31:31.000.555,D:\Projetos\Cursos\BlogFontes\trunk\Live 3107 - Injeçao de Dependencia\Projeto_Pagamento\LivePag.View.Principal.dfm=C:\Users\thuli\Documents\Embarcadero\Studio\Projects\Unit2.dfm</Transaction>
+    <Transaction>2020/07/31 21:31:36.000.126,D:\Projetos\Cursos\BlogFontes\trunk\Live 3107 - Injeçao de Dependencia\Projeto_Pagamento\LivePag.dproj=C:\Users\thuli\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2020/07/31 21:33:37.000.362,=D:\Projetos\Cursos\BlogFontes\trunk\Live 3107 - Injeçao de Dependencia\Projeto_Pagamento\Unit1.pas</Transaction>
+    <Transaction>2020/07/31 21:33:54.000.414,D:\Projetos\Cursos\BlogFontes\trunk\Live 3107 - Injeçao de Dependencia\Projeto_Pagamento\LivePag.Interfaces.pas=D:\Projetos\Cursos\BlogFontes\trunk\Live 3107 - Injeçao de Dependencia\Projeto_Pagamento\Unit1.pas</Transaction>
+    <Transaction>2020/07/31 21:39:29.000.707,=D:\Projetos\Cursos\BlogFontes\trunk\Live 3107 - Injeçao de Dependencia\Projeto_Pagamento\Unit1.pas</Transaction>
+    <Transaction>2020/07/31 21:39:42.000.226,D:\Projetos\Cursos\BlogFontes\trunk\Live 3107 - Injeçao de Dependencia\Projeto_Pagamento\LivePag.Model.Pagamento.pas=D:\Projetos\Cursos\BlogFontes\trunk\Live 3107 - Injeçao de Dependencia\Projeto_Pagamento\Unit1.pas</Transaction>
+    <Transaction>2020/07/31 21:40:35.000.708,=D:\Projetos\Cursos\BlogFontes\trunk\Live 3107 - Injeçao de Dependencia\Projeto_Pagamento\Unit1.pas</Transaction>
+    <Transaction>2020/07/31 21:40:45.000.903,D:\Projetos\Cursos\BlogFontes\trunk\Live 3107 - Injeçao de Dependencia\Projeto_Pagamento\LivePag.Model.Cartao.pas=D:\Projetos\Cursos\BlogFontes\trunk\Live 3107 - Injeçao de Dependencia\Projeto_Pagamento\Unit1.pas</Transaction>
+    <Transaction>2020/07/31 21:43:29.000.044,=D:\Projetos\Cursos\BlogFontes\trunk\Live 3107 - Injeçao de Dependencia\Projeto_Pagamento\Unit1.pas</Transaction>
+    <Transaction>2020/07/31 21:43:37.000.699,D:\Projetos\Cursos\BlogFontes\trunk\Live 3107 - Injeçao de Dependencia\Projeto_Pagamento\LivePag.Model.Crediario.pas=D:\Projetos\Cursos\BlogFontes\trunk\Live 3107 - Injeçao de Dependencia\Projeto_Pagamento\Unit1.pas</Transaction>
   </Transactions>
 </BorlandProject>
